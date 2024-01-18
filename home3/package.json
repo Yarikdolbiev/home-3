@@ -1,0 +1,21 @@
+{
+  "name": "home3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "preact": "^10.19.3",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.2"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.7.0",
+    "vite": "^5.0.8"
+  }
+}
